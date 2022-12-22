@@ -3,7 +3,7 @@
 
 - 🧔🏻 I'm 28 years old and I'm from Buenos Aires, Argentina.
 - 🎓 I graduated as a Web Frontend Developer at [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0).
-- 💼 Reach me on [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/fertamo/) or [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Mail.Ru&logoColor=orange" alt="email">]
+- 💼 Reach me on [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/fertamo/) or [<img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Mail.Ru&logoColor=orange" alt="email">]
 
 
 ## 🖥️ Languages and Tools I've worked with:
