@@ -1,6 +1,16 @@
 <h1 align="Center"> <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" height="60px" />  ¡Hi there!  I'm Fernando <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" height="60px" /></h1>
 
-
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 - 🧔🏻 I'm 28 years old and I'm from Buenos Aires, Argentina.
 - 🎓 I graduated as a Web Frontend Developer at [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0).
 - 💼 Reach me on [LinkedIn](https://www.linkedin.com/in/fertamo/) or [E-Mail](mailto:fertamone94@gmail.com).
