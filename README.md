@@ -16,7 +16,7 @@
 
 - <h3>Databases:</h3>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60">](https://www.mysql.com/) | [<img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="nodeJs" width="60" height="60">](https://nodejs.org/en/) | [<img src= "https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="express.js" width="60" hight="60">](https://expressjs.com/es/4x/api.html)]
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60">](https://www.mysql.com/) | [<img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="nodeJs" width="60" height="60">](https://nodejs.org/en/) | [<img src= "https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="express.js" width="60" hight="60">](https://expressjs.com/es/4x/api.html)
 |---|---|---|
 
 - <h3>Programming Languages:</h3>
