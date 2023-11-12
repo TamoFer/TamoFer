@@ -18,7 +18,6 @@
   </a>
 </p>
 
-- **Backend:**
 
 <p align="center">
   <a >
@@ -26,15 +25,12 @@
   </a>
 </p>
 
-- **Programming Languages:**
 
 <p align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=js,ts,py" />
   </a>
 </p>
-
-- **Other Tools:**
 
 
 <p align="center">
