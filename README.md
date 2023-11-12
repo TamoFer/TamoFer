@@ -1,5 +1,5 @@
 <h1 align="Center"> <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" height="60px" />  ¡Hi there!  I'm Fernando <img src="https://media.giphy.com/media/3pZipqyo1sqHDfJGtz/giphy.gif" height="60px" /></h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola!+Yo+soy+Fernando" alt="Typing SVG" /></a>
 
 - 👨‍💻 I'm 29 years old and I'm from Buenos Aires, Argentina. 
 - 🎓 I graduated as a Web Frontend Developer at [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0) and and I'm studying Argentina Program 4.0.
