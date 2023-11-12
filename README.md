@@ -41,7 +41,7 @@
 
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=postman,git,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=postman,git,vscode" />
   </a>
 </p>
 🔥 My stats 🔥
