@@ -38,7 +38,9 @@
     <img src="https://skillicons.dev/icons?i=postman,git,vscode" />
   </a>
 </p>
-🔥 My stats 🔥
+
+
+🔥 Mis estadisticas 🔥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamoFer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
