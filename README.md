@@ -12,7 +12,7 @@
 
 ## 🖥️ Lenguajes y herramientas con las que trabaje:
 
-- **Frontend:*
+- **Frontend:**
 
 <p align="center">
   <a >
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-- <h3>Backend:</h3>
+- **Backend:**
 
 <p align="center">
   <a >
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-- <h3>Programming Languages:</h3>
+- **Programming Languages:**
 
 <p align="center">
   <a >
@@ -36,11 +36,14 @@
   </a>
 </p>
 
-- <h3>Other Tools:</h3>
+- **Other Tools:**
 
-| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | [<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="60" height="60">](https://www.postman.com/home)
-|---|---|
 
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=postman,git,visualstudio" />
+  </a>
+</p>
 🔥 My stats 🔥
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamoFer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
