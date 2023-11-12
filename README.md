@@ -14,7 +14,7 @@
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60">](https://www.w3.org/html/) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60">](https://www.w3schools.com/css/) | [<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60">](https://angular.io) | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60">](https://getbootstrap.com)| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="60" height="60">](https://sass-lang.com/)| [<img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/main/assets/swal2-logo.png" alt="swt2" width="80" height="60">](https://sweetalert2.github.io/)
 |---|---|---|---|---|---|
 
-- <h3>Databases:</h3>
+- <h3>Backend:</h3>
 
 | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60">](https://www.mysql.com/) | [<img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="nodeJs" width="60" height="60">](https://nodejs.org/en/) | [<img src= "https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="express.js" width="60" hight="60">](https://expressjs.com/es/4x/api.html)
 |---|---|---|
