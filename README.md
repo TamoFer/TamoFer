@@ -12,10 +12,6 @@
 
 ## 🖥️ Lenguajes y herramientas con las que trabaje:
 
-<p align="center" weight=400> 
-   FRONTEND
-</p>
-
 <p align="center">
   <a >
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,sass" />
