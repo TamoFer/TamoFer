@@ -2,7 +2,7 @@
 
 
 
-
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mi
 - 👨‍💻 Tengo 29 años, soy de Buenos Aires, Argentina. 
 - 🎓 Me recibi de Desarrollador Web Frontend en [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0) y actualmente estoy cursando Argentina Programa 4.0, orientado al Backend.
 - :wave: ¡Conoceme! <a href="https://www.linkedin.com/in/fertamo/" ><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
