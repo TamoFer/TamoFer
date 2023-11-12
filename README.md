@@ -30,8 +30,11 @@
 
 - <h3>Programming Languages:</h3>
 
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60">](https://www.w3schools.com/js/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="60">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="60" height="60">](https://www.python.org/) 
-|---|---|---|
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=js,ts,py" />
+  </a>
+</p>
 
 - <h3>Other Tools:</h3>
 
