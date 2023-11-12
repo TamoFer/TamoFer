@@ -5,8 +5,7 @@
 
 - 👨‍💻 Tengo 29 años, soy de Buenos Aires, Argentina. 
 - 🎓 Me recibi de Desarrollador Web Frontend en [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0) y actualmente estoy cursando Argentina Programa 4.0, orientado al Backend.
-- ¡Conoceme! [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" linkref="https://www.linkedin.com/in/fertamo/">]
-- ![<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:fertamone94@gmail.com)
+- ¡Conoceme! <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" linkref="https://www.linkedin.com/in/fertamo/"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" href="mailto: fertamone94@gmail.com">
 - ⬇️ Descarga mi CV desde :arrow_right:  [:briefcase:](https://www.dropbox.com/s/sey3xz5mchpfk4a/CV%20PROGRAMADOR%20-EN.pdf?dl=0)
 
 
