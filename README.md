@@ -3,10 +3,10 @@
 
 
 
-- 👨‍💻 I'm 29 years old and I'm from Buenos Aires, Argentina. 
-- 🎓 I graduated as a Web Frontend Developer at [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0) and and I'm studying Argentina Program 4.0.
-- 💼 Reach me on [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/fertamo/) or [<img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="email">](mailto:fertamone94@gmail.com)
-- ⬇️ Download my CV from [HERE](https://www.dropbox.com/s/sey3xz5mchpfk4a/CV%20PROGRAMADOR%20-EN.pdf?dl=0)
+- 👨‍💻 Tengo 29 años, soy de Buenos Aires, Argentina. 
+- 🎓 Me recibi de Desarrollador Web Frontend en [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0) y actualmente estoy cursando Argentina Programa 4.0, orientado al Backend.
+- 💼 ¡Conoceme! [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/fertamo/) or [<img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="email">](mailto:fertamone94@gmail.com)
+- ⬇️ Descarga mi CV desde :arrow_right:  [HERE](https://www.dropbox.com/s/sey3xz5mchpfk4a/CV%20PROGRAMADOR%20-EN.pdf?dl=0)
 
 
 ## 🖥️ Languages and Tools I've worked with:
