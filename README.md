@@ -21,7 +21,7 @@
 
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=mysql,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=mysql,nodejs,express,redux" />
   </a>
 </p>
 
