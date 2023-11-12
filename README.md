@@ -1,5 +1,5 @@
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=435&lines=%C2%A1Hola!+Yo+soy+Fernando;Web+Developer;De+Argentina;%23OpenToWork" alt="Typing SVG" /></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=600&height=60&lines=%C2%A1Hola!+Yo+soy+Fernando;Web+Developer;De+Argentina;%23OpenToWork" alt="presentandome" align="center" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=600&height=60&lines=%C2%A1Hola!+Yo+soy+Fernando;Web+Developer;De+Argentina;%23OpenToWork" alt="presentandome" textalign="center" /></a>
 - 👨‍💻 I'm 29 years old and I'm from Buenos Aires, Argentina. 
 - 🎓 I graduated as a Web Frontend Developer at [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0) and and I'm studying Argentina Program 4.0.
 - 💼 Reach me on [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/fertamo/) or [<img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Gmail&logoColor=red" alt="email">](mailto:fertamone94@gmail.com)
