@@ -26,8 +26,8 @@
 
 - <h3>Other Tools:</h3>
 
-| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/)
-|---|
+| [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60">](https://git-scm.com/) | <img src="https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png" alt="postman" width="60" height="60">](https://www.postman.com/home)
+|---|---|
 
 🔥 My stats 🔥
 
