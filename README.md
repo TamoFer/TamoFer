@@ -12,8 +12,8 @@
 
 ## 🖥️ Lenguajes y herramientas con las que trabaje:
 
-<p align="center"> 
-  **Frontend:** 
+<p align="center" weight=400> 
+   FRONTEND
 </p>
 
 <p align="center">
