@@ -40,12 +40,9 @@
 </p>
 
 
-##🔥 Mis estadisticas 🔥
-<p>
-  <a>
+## 🔥 Mis estadisticas 🔥
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamoFer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-  </a>
-</p>
   
 
 
