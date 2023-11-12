@@ -15,7 +15,7 @@
 - <h3>Frontend:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a >
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,html,sass" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 - <h3>Backend:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a >
     <img src="https://skillicons.dev/icons?i=mysql,nodejs,express" />
   </a>
 </p>
