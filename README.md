@@ -1,4 +1,9 @@
-<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&random=false&width=600&height=60&lines=%C2%A1Hola!+Yo+soy+Fernando;Web+Developer;De+Argentina;%23OpenToWork" alt="presentandome"/></h1>
+<h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&random=false&width=%100&height=60&lines=%C2%A1Hola!+Yo+soy+Fernando;Web+Developer;De+Argentina;%23OpenToWork" alt="Typing SVG" /></h1>
+
+
+
+
+
 
 - 👨‍💻 I'm 29 years old and I'm from Buenos Aires, Argentina. 
 - 🎓 I graduated as a Web Frontend Developer at [CODERHOUSE](https://www.dropbox.com/s/8s4j63k6o3f1vj8/certificado-Desarrollador%20Frontend.png?dl=0) and and I'm studying Argentina Program 4.0.
