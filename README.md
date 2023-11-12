@@ -12,7 +12,9 @@
 
 ## 🖥️ Lenguajes y herramientas con las que trabaje:
 
-<p align="center"> **Frontend:** </p>
+<p align="center"> 
+  **Frontend:** 
+</p>
 
 <p align="center">
   <a >
